@@ -1,0 +1,35 @@
+.ultimatesubversion_version {
+	font-weight: bold;
+}
+
+.ultimatesubversion_date {
+	font-size: 10px;
+}
+
+.ultimatesubversion_comment {
+	font-family: "Courier New", Courier, Monaco, monospace;
+	display:block;
+	font-style: italic;
+	color: #636363;
+}
+
+.ultimatesubversion_author {
+	display:block;
+}
+
+#ultimatesubversion_logs {
+	margin: 5px;
+	padding: 5px;
+	border-color: #c1c1c1;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#ultimatesubversion_logs_head {
+	background-color: #dbdbdb;
+	margin: 5px;
+	padding: 5px;
+	border-color: #c1c1c1;
+	border-width: 1px;
+	border-style: double;
+}
